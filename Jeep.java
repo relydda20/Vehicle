@@ -11,10 +11,10 @@ public class Jeep extends Vehicle implements IsLandVehicle {
     }
 
 
-    public static void soundHorn() {
+    public void soundHorn() {
         System.out.println("Beep beep");
     }
-    @Override
+
     public void drive(){
         System.out.println("Vehicle is now in motion");
     }

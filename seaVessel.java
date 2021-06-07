@@ -1,5 +1,5 @@
 package Vehicle;
 
-interface seaVessel {
+public interface seaVessel {
     public void launch();
 }

@@ -1,5 +1,5 @@
 package Vehicle;
 
-interface IsLandVehicle {
+public interface IsLandVehicle {
     public void drive();
 }

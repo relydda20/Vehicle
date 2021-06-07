@@ -1,5 +1,5 @@
 package Vehicle;
 
-interface IsEmergency {
+public interface IsEmergency {
     public void soundSiren();
 }
